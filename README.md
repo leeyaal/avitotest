@@ -42,11 +42,11 @@ sum | integer| not null|
 
 #### Unsuccessful 
 
-![](newuser(unsuccess).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/newuser(unsuccess).jpg)
 
 #### Successful 
 
-![](newuser(success).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/newuser(success).jpg)
 
 ### Income (зачисление средств)
 
