@@ -62,7 +62,7 @@ sum | integer| not null|
 
 #### Unsuccessful 
 
-![](https://github.com/leeyaal/avitotest/blob/main/images/outcome(unsuccess).jpg)
+![](https://github.com/leeyaal/avitotest/blob/main/images/outcome (unsuccess).jpg)
 
 #### Successful 
 
