@@ -19,7 +19,12 @@ go run main.go checks.go handlers.go
 
 ## Создание БД (производилось в psql)
 
-![Список юзеров](![image](https://user-images.githubusercontent.com/90761484/142589540-a10ca05e-581a-42ce-87bb-091a962afe5e.png)) 
+Список юзеров
+name | type | value
+:----|:----:|-----:|
+id | integer| not null|
+balance| integer | not null|
+status | varchar(20)| not null|
 
 
 
