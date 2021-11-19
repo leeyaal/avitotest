@@ -52,49 +52,49 @@ sum | integer| not null|
 
 #### Unsuccessful 
 
-![](income(unsuccess).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/income(unsuccess).jpg)
 
 #### Successful 
 
-![](income(success).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/income(success).jpg)
 
 ### Outcome (списание средств)
 
 #### Unsuccessful 
 
-![](outcome(unsuccess).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/outcome(unsuccess).jpg)
 
 #### Successful 
 
-![](outcome(success).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/outcome(success).jpg)
 
 ### Transit (перевод средств от юзера к юзеру)
 
 #### Unsuccessful 
 
-![](transfer(unsuccess).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/transfer(unsuccess).jpg)
 
 #### Successful 
 
-![](transfer(success).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/transfer(success).jpg)
 
 ### Check (получение списка всех юзеров)
 
 #### Successful 
 
-![](check(success).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/check(success).jpg)
 
 ### Infobalance (получение баланса конкретного юзера)
 
 #### Successful 
 
-![](infobalance.png)
-![](infobalance(success).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/infobalance.jpg)
+![](https://github.com/leeyaal/avitotest/blob/main/images/infobalance(success).jpg)
 
 ### History (получение списка истории операций)
 
 #### Successful 
 
-![](history.png)
-![](history(success).png)
+![](https://github.com/leeyaal/avitotest/blob/main/images/history.jpg)
+![](https://github.com/leeyaal/avitotest/blob/main/images/history(success).jpg)
 
